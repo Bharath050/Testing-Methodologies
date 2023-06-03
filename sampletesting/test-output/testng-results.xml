@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-02T07:17:45Z" name="Default suite" finished-at="2023-06-02T07:18:25Z" duration-ms="39823">
+    <groups>
+    </groups>
+    <test started-at="2023-06-02T07:17:45Z" name="Default test" finished-at="2023-06-02T07:18:25Z" duration-ms="39823">
+      <class name="sampletesting.day7Three">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:sampletesting.day7Three@36060e]" started-at="2023-06-02T12:47:45Z" name="openUrl" finished-at="2023-06-02T12:48:21Z" duration-ms="35952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="UserDet()[pri:0, instance:sampletesting.day7Three@36060e]" started-at="2023-06-02T12:48:21Z" name="UserDet" finished-at="2023-06-02T12:48:25Z" duration-ms="3453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserDet -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:sampletesting.day7Three@36060e]" started-at="2023-06-02T12:48:25Z" name="aftermethod" finished-at="2023-06-02T12:48:25Z" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- sampletesting.day7Three -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
